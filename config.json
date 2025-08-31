@@ -1,0 +1,9 @@
+{
+  "apiUrl": "https://goatbotadeet-10016687.chipp.ai/api/chat",
+  "headers": {
+    "accept": "*/*",
+    "content-type": "application/json",
+    "user-agent": "Mozilla/5.0 GoatBot Integration",
+    "Referer": "https://goatbotadeet-10016687.chipp.ai/w/chat/"
+  }
+}
